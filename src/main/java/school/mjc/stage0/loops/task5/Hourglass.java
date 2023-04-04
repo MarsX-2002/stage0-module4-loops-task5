@@ -17,8 +17,8 @@ public class Hourglass {
 
 
 
-    public static void main(String[] args) {
-        printHourglassOfGivenSize(7);
-    }
+//    public static void main(String[] args) {
+//        printHourglassOfGivenSize(7);
+//    }
 
 }
